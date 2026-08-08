@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "lung-aware-dual-branch-ct: Lung-Aware Dual-Branch CT Classification with Cross-Attention"
+type: software
+authors:
+  - family-names: "Hamed"
+    given-names: "Sara"
+version: 1.0.0
+date-released: "[YYYY-MM-DD RELEASE DATE]"
+doi: "[ZENODO DOI PLACEHOLDER]"
+url: "https://github.com/sarahamed/lung-aware-dual-branch-ct"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Lung-Aware Dual-Branch Cross-Attention Network for Explainable Lung Cancer Classification from CT Images"
+  authors:
+    - family-names: "Hamed"
+      given-names: "Sara"
+  journal: "Scientific Reports"
+  year: 2026
+  doi: "[MANUSCRIPT DOI PLACEHOLDER]"

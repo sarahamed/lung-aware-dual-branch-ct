@@ -1,0 +1,22 @@
+# Minimum versions consistent with the APIs actually used in src/ and notebooks/:
+#   - keras.config.enable_unsafe_deserialization() -> requires Keras 3
+#   - tf.keras.optimizers.AdamW as a built-in -> requires TensorFlow >= 2.11
+#   - tf.keras.applications.EfficientNetV2S -> requires TensorFlow >= 2.8
+#
+# IMPORTANT: these are minimum-compatible versions, not exact pins. The
+# manuscript's checkpoints were produced in a specific Google Colab session
+# whose exact package versions were not captured at the time. For a fully
+# reproducible environment, run `pip freeze > requirements-lock.txt` in the
+# environment you train/evaluate in and commit that alongside this file.
+tensorflow>=2.16
+keras>=3.0
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.3
+scikit-image>=0.22
+scipy>=1.11
+opencv-python>=4.8
+matplotlib>=3.7
+seaborn>=0.13
+imageio>=2.31
+kagglehub>=0.2
