@@ -7,7 +7,7 @@ authors:
     given-names: "Sara"
 version: 1.0.0
 date-released: "[YYYY-MM-DD RELEASE DATE]"
-doi: "[ZENODO DOI PLACEHOLDER]"
+doi: "10.5281/zenodo.21853809"
 url: "https://github.com/sarahamed/lung-aware-dual-branch-ct"
 license: MIT
 preferred-citation:
