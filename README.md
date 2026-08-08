@@ -110,13 +110,12 @@ the XAI methods) outside the notebook.
 If you use this code, please cite:
 
 > Hamed, S. "Lung-Aware Dual-Branch Cross-Attention Network for Explainable Lung Cancer Classification from CT Images." *Scientific Reports* (2026).
-> DOI: [MANUSCRIPT DOI PLACEHOLDER]
+> DOI: [wait for the publishing]
 
 For the code itself, please also cite this repository's archived release:
 
 > Hamed, S. "lung-aware-dual-branch-ct" (v1.0.0). Zenodo.
-> DOI: [ZENODO DOI PLACEHOLDER — see CITATION.cff]
-
+> DOI: 10.5281/zenodo.21853809
 Machine-readable citation metadata is provided in `CITATION.cff`.
 
 If you use the IQ-OTHNCCD dataset, please also cite it per the guidance in
