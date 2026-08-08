@@ -115,7 +115,7 @@ If you use this code, please cite:
 For the code itself, please also cite this repository's archived release:
 
 > Hamed, S. "lung-aware-dual-branch-ct" (v1.0.0). Zenodo.
-> DOI: [ZENODO DOI PLACEHOLDER — see CITATION.cff]
+> DOI: 10.5281/zenodo.21853809
 
 Machine-readable citation metadata is provided in `CITATION.cff`.
 
